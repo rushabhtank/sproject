@@ -2,7 +2,7 @@
 # I have used Spring boot, Hibernet.
 # Database MySQL.
 # CURD Restfull API.
-# Used PostMan for CURD opertion testing. 
-# This is simple Consol base Employee management Api
-# This is CURD Application.
-# We can Add, Delete, Update, Featch all the employee.
+# Used PostMan for CURD operation testing. 
+# This is a simple Consol base Employee management API
+# This is a CURD Application.
+# We can Add, Delete, Update, and Featch all the employees.
